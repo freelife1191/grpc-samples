@@ -1,4 +1,4 @@
-rootProject.name = 'samples'
+rootProject.name = 'grpc-samples'
 include(':ch02:productinfo:java:server')
 include(':ch02:productinfo:java:client')
 include(':ch02:productinfo:kotlin:server')
